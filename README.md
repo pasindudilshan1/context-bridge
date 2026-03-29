@@ -186,6 +186,12 @@ context-bridge extracts the signal, drops the noise, marks decisions as closed, 
 
 ---
 
+## License
+
+MIT License. See [LICENSE](./LICENSE).
+
+---
+
 ## Changelog
 
 **1.0.0**
