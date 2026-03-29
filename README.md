@@ -53,7 +53,7 @@ Paste a messy AI conversation. Claude extracts the clean context from it, strips
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/[your-username]/context-bridge.git ~/.claude/skills/context-bridge
+git clone https://github.com/pasindudilshan1/context-bridge.git ~/.claude/skills/context-bridge
 ```
 
 Restart Claude. The skill activates automatically when you switch tools or mention context loss.
